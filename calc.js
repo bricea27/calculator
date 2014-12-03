@@ -71,13 +71,13 @@ var eventname = "click";
 var clearAll = function() {
 
   var textbox1 = document.querySelector("#input1");
-  textbox1.value = 0;
+  textbox1.value = "";
 
   var textbox2 = document.querySelector("#input2");
-  textbox2.value = 0;
+  textbox2.value = "";
 
   var textbox3 = document.querySelector("#finalAnswer");
-  textbox3.value = 0;
+  textbox3.value = "";
 
 };
 
