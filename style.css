@@ -75,6 +75,7 @@ input[type="text"] {
 .math {
   display: block;
   margin: 0 auto;
+  cursor: pointer;
 }
 
 .clear {
